@@ -32,7 +32,7 @@ console.log(`1.) ${myName}`);
 
 // 2. Make a variable with your favorite quote or lyric. Change the entire text to uppercase and lowercase in separate steps.
 // Changing Lyrics to all upper case 
-const lyrics = "Omemma always Always on time, You can't do no wrong Omemma!!!,You Leave the 99, always for the one"
+const lyrics = "Omemma Always on time, You can't do no wrong Omemma!!!,You Leave the 99, always for the one"
 const capitalLetterLyrics = lyrics.toLocaleUpperCase()
 console.log(`(2.) Changing Lyrics to Upper:  ${capitalLetterLyrics}`);
 
