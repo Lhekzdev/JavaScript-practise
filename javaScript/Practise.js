@@ -97,7 +97,7 @@ document.getElementById('favoriteFoods').textContent=favoriteFoods
 
 // Display the first item
 const firstItem = favoriteFoods[0]
-console.log(`(6a) Show first item before adding pounded yam as first : ${firstItem}`);
+console.log(`(6a) Show first item before adding Yam Flour as first : ${firstItem}`);
 document.getElementById("firstitem").textContent =firstItem
 
 
