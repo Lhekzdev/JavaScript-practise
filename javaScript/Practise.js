@@ -97,13 +97,13 @@ document.getElementById('favoriteFoods').textContent=favoriteFoods
 
 // Display the first item
 const firstItem = favoriteFoods[0]
-console.log(`(6a) Show first item : ${firstItem}`);
+console.log(`(6a) Show first item before adding pounded yam as first : ${firstItem}`);
 document.getElementById("firstitem").textContent =firstItem
 
 
 // Display the last item
 const lastItem = favoriteFoods[4]
-console.log(`(6b.)Show last item :${lastItem}`);
+console.log(`(6b.)Show last item before adding noodles at last :${lastItem}`);
 document.getElementById("lastitem").textContent =lastItem
 
 
